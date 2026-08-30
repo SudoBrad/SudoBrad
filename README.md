@@ -134,49 +134,6 @@ Cloud Security...............[ LEARNING ]
 
 ---
 
-# ♾️ `cat devsecops.pipeline`
-
-```text id="6xv1f9"
-                         DEVSECOPS
-
-                            │
-                            ▼
-                       ┌─────────┐
-                       │  CODE   │
-                       └────┬────┘
-                            │
-                            ▼
-                       ┌─────────┐
-                       │  BUILD  │
-                       └────┬────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │ SECURITY SCAN │
-                    └───────┬───────┘
-                            │
-                            ▼
-                       ┌─────────┐
-                       │  TEST   │
-                       └────┬────┘
-                            │
-                            ▼
-                       ┌─────────┐
-                       │ DEPLOY  │
-                       └────┬────┘
-                            │
-                            ▼
-                       ┌─────────┐
-                       │ MONITOR │
-                       └────┬────┘
-                            │
-                            └──────────► REPEAT
-```
-
-> My long-term focus is the intersection between **security and operations**: integrating security into development and deployment instead of treating it as an afterthought.
-
----
-
 # 💻 `ls /usr/bin/languages`
 
 <p align="center">
@@ -341,19 +298,6 @@ Application
 [ ] Security automation
 [ ] DevSecOps pipelines
 ```
-
----
-
-# 📊 `github-stats --user SudoBrad`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SudoBrad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudoBrad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
 ---
 
 # 🔥 `git streak`
