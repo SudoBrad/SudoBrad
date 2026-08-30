@@ -78,6 +78,8 @@ Software Engineering
         ├── TypeScript
         ├── Rust
         └── System Design
+```
+
 ## 📫 Connect With Me
 
 <p align="center">
@@ -110,6 +112,3 @@ I'm interested in collaborating on projects involving:
 * 🦀 Rust
 * 🌐 TypeScript
 * 🐧 Linux & Open Source
-
-
-
