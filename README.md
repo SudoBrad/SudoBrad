@@ -1,80 +1,128 @@
 <div align="center">
 
-# 👨‍💻 SudoBrad
+# `SudoBrad`
 
-### • `Security` • `DevOps`
+### 🔐 Cybersecurity • ⚙️ DevOps • 🐧 Linux
 
-```text
+```text id="g0qf31"
 ┌──(SudoBrad㉿github)-[~]
 └─$ whoami
 
 > Computer Science Student
-> Software Developer
-> Security & DevOps Enthusiast
+> Cybersecurity & DevOps Enthusiast
 > Linux User
-> Always Learning. Always Building.
+> Software Developer
+
+┌──(SudoBrad㉿github)-[~]
+└─$ echo $MISSION
+
+Secure. Automate. Deploy. Monitor. Improve.
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Software+Developer;Security+%26+DevOps;Rust+%7C+TypeScript+%7C+Java;Linux+Enthusiast;Build.+Break.+Understand.+Improve." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+DevOps+%7C+Linux;Secure.+Automate.+Deploy.;Learning+Cloud+%26+Infrastructure;Breaking+Things+Safely.;Building+Secure+Systems." alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🧑‍💻 `sudo whoami`
+# `sudo whoami`
 
-```yaml
-user: SudoBrad
-role: Computer Science Student
+```yaml id="d7d51h"
+username: SudoBrad
 
-interests:
-  - Software Engineering
-  - Cybersecurity
+role:
+  - Computer Science Student
+  - Aspiring DevOps Engineer
+  - Aspiring Security Engineer
+
+primary_focus:
   - DevOps
+  - Cybersecurity
+  - Linux
   - Networking
-  - Systems Programming
-  - Open Source
-  - Ethical Hacking
-
-currently_learning:
   - Secure Software Development
-  - CI/CD
+
+currently_exploring:
+  - CI/CD Pipelines
   - Containers
-  - Cloud & Infrastructure
+  - Cloud Infrastructure
+  - Infrastructure Automation
   - Network Security
-  - System Design
+  - Vulnerability Assessment
+  - Security Automation
+  - System Hardening
 
-operating_system: Linux
-
-mission: "Build secure systems. Understand how they break. Make them better."
+mission: "Build infrastructure that is automated, observable and secure."
 ```
 
 ---
 
-## ⚡ `sudo tech-stack --list`
+# 🔐 `cat /etc/security/focus.conf`
 
-### 💻 Languages
+```text id="i36dfk"
+[CYBERSECURITY]
 
-<p align="left">
+Network Security.............[ ACTIVE ]
+Linux Security...............[ ACTIVE ]
+Secure Development...........[ ACTIVE ]
+Network Analysis.............[ ACTIVE ]
+Vulnerability Assessment.....[ LEARNING ]
+System Hardening.............[ LEARNING ]
+Security Automation..........[ LEARNING ]
+Cloud Security...............[ LEARNING ]
+```
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+### 🛡️ Security Toolkit
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Linux-Security-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Wireshark-Network_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-Network_Recon-4682B4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </p>
 
-### 🗄️ Database
+```text id="ntv2id"
+                  SECURITY
 
-<p align="left">
+                     │
+       ┌─────────────┼─────────────┐
+       │             │             │
+       ▼             ▼             ▼
+    Network        Linux        Software
+    Security       Security      Security
+       │             │             │
+       ▼             ▼             ▼
+   Analysis       Hardening     Secure SDLC
+   TCP/IP         Permissions   Dependencies
+   Scanning       Services      Code Security
+   Traffic        Logs          CI/CD Security
+```
 
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+---
 
-</p>
+# ⚙️ `sudo systemctl status devops`
 
-### ⚙️ DevOps & Development
+```text id="5g4vrm"
+● devops.service - DevOps Engineering
+     Loaded: loaded
+     Active: active (learning)
+     Status: "Automating everything possible"
 
-<p align="left">
+     CI/CD              █████████████████░░░
+     Linux              ██████████████████░░
+     Git/GitHub         ██████████████████░░
+     Containers         ███████████████░░░░░
+     Cloud              ███████████░░░░░░░░░
+     Automation         ██████████████░░░░░░
+     Observability      ██████████░░░░░░░░░░
+     DevSecOps          ████████████░░░░░░░░
+```
+
+### ⚙️ DevOps Stack
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -84,93 +132,219 @@ mission: "Build secure systems. Understand how they break. Make them better."
 
 </p>
 
-### 🔐 Security & Networking
+---
 
-```text
-┌─ Security Toolkit ──────────────────────┐
-│                                        │
-│  ◉ Network Analysis                    │
-│  ◉ TCP/IP & UDP                        │
-│  ◉ Port Scanning                       │
-│  ◉ Linux Security                      │
-│  ◉ Secure Development                  │
-│  ◉ Network Reconnaissance              │
-│                                        │
-└────────────────────────────────────────┘
+# ♾️ `cat devsecops.pipeline`
+
+```text id="6xv1f9"
+                         DEVSECOPS
+
+                            │
+                            ▼
+                       ┌─────────┐
+                       │  CODE   │
+                       └────┬────┘
+                            │
+                            ▼
+                       ┌─────────┐
+                       │  BUILD  │
+                       └────┬────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │ SECURITY SCAN │
+                    └───────┬───────┘
+                            │
+                            ▼
+                       ┌─────────┐
+                       │  TEST   │
+                       └────┬────┘
+                            │
+                            ▼
+                       ┌─────────┐
+                       │ DEPLOY  │
+                       └────┬────┘
+                            │
+                            ▼
+                       ┌─────────┐
+                       │ MONITOR │
+                       └────┬────┘
+                            │
+                            └──────────► REPEAT
+```
+
+> My long-term focus is the intersection between **security and operations**: integrating security into development and deployment instead of treating it as an afterthought.
+
+---
+
+# 💻 `ls /usr/bin/languages`
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+</p>
+
+```text id="ym38nx"
+Programming isn't the destination.
+
+It's a tool for:
+
+    → automating infrastructure
+    → building security tooling
+    → understanding vulnerabilities
+    → creating reliable systems
+    → eliminating repetitive work
 ```
 
 ---
 
-# 🚀 `ls ~/projects`
+# 🚀 `find ~/projects -type f`
 
 ## 🔎 Nemphyx
 
-> A Rust-based network scanning project focused on host discovery, port scanning and network analysis.
+### `Network Security / Rust`
 
-```text
-Language    : Rust
-Domain      : Networking / Security
-Protocols   : TCP / UDP
-Interface   : CLI
-Focus       : CIDR • Hosts • Ports • Network Discovery
+> Network scanning project built to explore networking, host discovery and security tooling.
+
+```text id="mx9imk"
+$ nemphyx scan
+
+[*] Expanding CIDR range...
+[*] Discovering hosts...
+[*] Scanning TCP ports...
+[*] Checking UDP services...
+[*] Generating host report...
+[+] Scan complete
 ```
 
-**What I'm exploring:**
+**Areas explored**
 
-* TCP and UDP scanning
-* IPv4/CIDR host expansion
-* Network programming
-* Concurrent operations
-* CLI development
-* Host report generation
-
----
-
-## 🎓 UConnect
-
-> A university complaint management system designed to provide structured complaint submission, tracking and administration.
-
-```text
-Language    : TypeScript
-Database    : SQLite
-Domain      : Software Engineering
-Architecture: Full-stack application
-```
-
-**Core areas:**
-
-* Complaint submission
-* Complaint tracking
-* User authentication
-* Administrative management
-* Role-based functionality
-* Database persistence
-* Requirements engineering
+`Rust` • `TCP` • `UDP` • `CIDR` • `Networking` • `CLI` • `Port Scanning`
 
 ---
 
 ## 💬 Sphynx
 
-> Terminal-based chat application exploring secure communication, networking and TUI development.
+### `Secure Communications / Rust`
 
-```text
-Language    : Rust
-Security    : TLS
-Interface   : Terminal UI
-Domain      : Networking
+> Terminal-based TLS chat application exploring encrypted communication and client/server networking.
+
+```text id="h0unfk"
+Client
+   │
+   │ TLS
+   ▼
+Encrypted Channel
+   │
+   ▼
+Server
 ```
 
-**Focus areas:**
+**Areas explored**
 
-* TLS communication
-* Client/server architecture
-* Terminal interfaces
-* Asynchronous networking
-* Secure communication
+`Rust` • `TLS` • `Networking` • `Client/Server` • `TUI`
 
 ---
 
-# 📊 `sudo github-stats --user SudoBrad`
+## 🎓 UConnect
+
+### `Software Engineering / DevSecOps`
+
+> University complaint management system with a focus on structured requirements, maintainability and secure application development.
+
+```text id="t43zpg"
+Application
+     │
+     ├── TypeScript
+     │
+     ├── Authentication
+     │
+     ├── Business Logic
+     │
+     └── SQLite
+             │
+             ▼
+        Persistence
+```
+
+**Engineering focus**
+
+`TypeScript` • `SQLite` • `Git` • `GitHub` • `Secure Development`
+
+---
+
+# 🧪 `sudo security-lab --status`
+
+```text id="tdw0ij"
+┌──────────────────────────────────────────────┐
+│              SECURITY LAB                    │
+├──────────────────────────────────────────────┤
+│                                              │
+│  Network Analysis             [ACTIVE]       │
+│  Linux                        [ACTIVE]       │
+│  TCP/IP                       [ACTIVE]       │
+│  Port Scanning                [ACTIVE]       │
+│  Secure Programming           [ACTIVE]       │
+│                                              │
+│  Vulnerability Assessment     [LEARNING]     │
+│  Cloud Security               [LEARNING]     │
+│  Container Security           [LEARNING]     │
+│  DevSecOps                    [LEARNING]     │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+# 🗺️ `cat ~/roadmap.md`
+
+```text id="ix2kfh"
+                    SudoBrad
+
+                       │
+            ┌──────────┴──────────┐
+            │                     │
+            ▼                     ▼
+       CYBERSECURITY            DEVOPS
+            │                     │
+       Networking               Linux
+       Security                 Git
+       Hardening                CI/CD
+       Analysis                 Docker
+       Secure Code              Automation
+            │                     │
+            └──────────┬──────────┘
+                       ▼
+                    DEVSECOPS
+                       │
+             ┌─────────┼─────────┐
+             ▼         ▼         ▼
+           Cloud   Security   Infrastructure
+         Security  Automation    as Code
+```
+
+### Next targets
+
+```text id="ek9dwm"
+[ ] Advanced Docker
+[ ] CI/CD pipeline design
+[ ] Infrastructure as Code
+[ ] Cloud fundamentals
+[ ] Kubernetes
+[ ] Container security
+[ ] Cloud security
+[ ] Monitoring & observability
+[ ] Security automation
+[ ] DevSecOps pipelines
+```
+
+---
+
+# 📊 `github-stats --user SudoBrad`
 
 <div align="center">
 
@@ -182,7 +356,7 @@ Domain      : Networking
 
 ---
 
-## 🔥 `git streak`
+# 🔥 `git streak`
 
 <div align="center">
 
@@ -192,7 +366,7 @@ Domain      : Networking
 
 ---
 
-## 📈 `git log --graph`
+# 📈 `git log --graph --all`
 
 <div align="center">
 
@@ -202,42 +376,22 @@ Domain      : Networking
 
 ---
 
-## 🎯 `cat current_focus.txt`
+# 🧠 `cat /home/SudoBrad/philosophy.txt`
 
-```text
-[████████████████████░░░░] Software Engineering
-[██████████████████░░░░░░] Cybersecurity
-[████████████████░░░░░░░░] DevOps
-[██████████████░░░░░░░░░░] Systems Programming
-[████████████░░░░░░░░░░░░] Cloud Engineering
+```text id="kjmnyv"
+Security without automation doesn't scale.
+
+Automation without security creates risk.
+
+Development without understanding infrastructure
+only solves part of the problem.
 ```
 
-```bash
-#!/bin/bash
-
-while true; do
-    learn
-    build
-    break_things_safely
-    debug
-    improve
-    repeat
-done
-```
+### `Secure → Automate → Deploy → Monitor → Improve`
 
 ---
 
-# 🧠 `cat philosophy.txt`
-
-> **"Build it. Break it. Understand it. Improve it."**
-
-I enjoy understanding technology beyond simply making it work.
-
-My goal is to understand how software is **designed, built, deployed, secured and ultimately broken** — then use that knowledge to build better systems.
-
----
-
-# 🌐 `sudo connect --user SudoBrad`
+# 📡 `sudo connect --user SudoBrad`
 
 <div align="center">
 
@@ -253,30 +407,33 @@ My goal is to understand how software is **designed, built, deployed, secured an
 
 <br>
 
-```text
+```text id="nn2z3w"
 ┌──(visitor㉿github)-[~/SudoBrad]
 │
-├── Interested in collaborating?
+├── Looking to collaborate?
 │
-├── Cybersecurity       [✓]
-├── DevOps              [✓]
-├── Software Engineering[✓]
-├── Rust                [✓]
-├── TypeScript          [✓]
-└── Open Source         [✓]
-
-└─$ echo "Let's build something."
+├── DevOps...................[✓]
+├── Cybersecurity............[✓]
+├── DevSecOps................[✓]
+├── Linux....................[✓]
+├── Networking...............[✓]
+├── Security Tools...........[✓]
+└── Open Source..............[✓]
+│
+└─$ echo "Let's secure, automate and ship."
 ```
 
 ---
 
 <div align="center">
 
-### ⚡ `sudo shutdown -h never`
+### `root@SudoBrad:~# uptime`
 
-**Thanks for visiting my profile.**
+**Building • Securing • Automating • Learning**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SudoBrad\&style=for-the-badge\&color=blueviolet)
 
 </div>
+
+
 
