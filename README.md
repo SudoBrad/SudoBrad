@@ -310,16 +310,6 @@ Application
 
 ---
 
-# 📈 `git log --graph --all`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SudoBrad&theme=tokyo-night&hide_border=true&area=true" alt="SudoBrad Contribution Graph" />
-
-</div>
-
----
-
 # 🧠 `cat /home/SudoBrad/philosophy.txt`
 
 ```text id="kjmnyv"
