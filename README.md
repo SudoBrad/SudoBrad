@@ -51,12 +51,6 @@ University complaint management system.
 
 ---
 
-### 💬 Sphynx
-Terminal-based TLS chat application.
-
-**Tech:** Rust • TLS • Networking • TUI
-
----
 
 ## 📊 GitHub Activity
 
@@ -84,5 +78,38 @@ Software Engineering
         ├── TypeScript
         ├── Rust
         └── System Design
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:keabetswedikobe8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-keabetswedikobe8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/SudoBrad">
+  <img src="https://img.shields.io/badge/GitHub-SudoBrad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</p>
+
+```text
+$ contact --info
+
+  GitHub   → @SudoBrad
+  Email    → keabetswedikobe8@gmail.com
+  Status   → Open to collaboration
+```
+
+### 🤝 Let's Build Something
+
+I'm interested in collaborating on projects involving:
+
+* 🔐 Cybersecurity
+* ⚙️ DevOps & Automation
+* 💻 Software Engineering
+* 🦀 Rust
+* 🌐 TypeScript
+* 🐧 Linux & Open Source
+
 
 
