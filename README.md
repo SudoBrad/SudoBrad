@@ -19,7 +19,7 @@
 Secure. Automate. Deploy. Monitor. Improve.
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+DevOps+%7C+Linux;Secure.+Auto[...]"
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=6B7280&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+DevOps+%7C+Linux;Secure.+Automate.+Deploy.+Monitor.+Improve." />
 
 </div>
 
