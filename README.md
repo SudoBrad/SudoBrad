@@ -2,7 +2,7 @@
 
 # `SudoBrad`
 
-### 🔐 Cybersecurity • ⚙️ DevOps • 🐧 Linux
+### Cybersecurity • DevOps • Linux
 
 ```text id="g0qf31"
 ┌──(SudoBrad㉿github)-[~]
@@ -19,7 +19,7 @@
 Secure. Automate. Deploy. Monitor. Improve.
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+DevOps+%7C+Linux;Secure.+Automate.+Deploy.;Learning+Cloud+%26+Infrastructure;Breaking+Things+Safely.;Building+Secure+Systems." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+DevOps+%7C+Linux;Secure.+Auto[...]"
 
 </div>
 
@@ -57,7 +57,7 @@ mission: "Build infrastructure that is automated, observable and secure."
 
 ---
 
-# 🔐 `cat /etc/security/focus.conf`
+# `cat /etc/security/focus.conf`
 
 ```text id="i36dfk"
 [CYBERSECURITY]
@@ -72,7 +72,7 @@ Security Automation..........[ LEARNING ]
 Cloud Security...............[ LEARNING ]
 ```
 
-### 🛡️ Security Toolkit
+### Security Toolkit
 
 <p align="center">
 
@@ -102,7 +102,7 @@ Cloud Security...............[ LEARNING ]
 
 ---
 
-# ⚙️ `sudo systemctl status devops`
+# `sudo systemctl status devops`
 
 ```text id="5g4vrm"
 ● devops.service - DevOps Engineering
@@ -120,7 +120,7 @@ Cloud Security...............[ LEARNING ]
      DevSecOps          ████████████░░░░░░░░
 ```
 
-### ⚙️ DevOps Stack
+### DevOps Stack
 
 <p align="center">
 
@@ -134,7 +134,7 @@ Cloud Security...............[ LEARNING ]
 
 ---
 
-# 💻 `ls /usr/bin/languages`
+# `ls /usr/bin/languages`
 
 <p align="center">
 
@@ -159,9 +159,9 @@ It's a tool for:
 
 ---
 
-# 🚀 `find ~/projects -type f`
+# `find ~/projects -type f`
 
-## 🔎 Nemphyx
+## Nemphyx
 
 ### `Network Security / Rust`
 
@@ -184,7 +184,7 @@ $ nemphyx scan
 
 ---
 
-## 💬 Sphynx
+## Sphynx
 
 ### `Secure Communications / Rust`
 
@@ -207,7 +207,7 @@ Server
 
 ---
 
-## 🎓 UConnect
+## UConnect
 
 ### `Software Engineering / DevSecOps`
 
@@ -234,7 +234,7 @@ Application
 
 ---
 
-# 🧪 `sudo security-lab --status`
+# `sudo security-lab --status`
 
 ```text id="tdw0ij"
 ┌──────────────────────────────────────────────┐
@@ -257,7 +257,7 @@ Application
 
 ---
 
-# 🗺️ `cat ~/roadmap.md`
+# `cat ~/roadmap.md`
 
 ```text id="ix2kfh"
                     SudoBrad
@@ -300,7 +300,7 @@ Application
 ```
 ---
 
-# 🔥 `git streak`
+# `git streak`
 
 <div align="center">
 
@@ -310,7 +310,7 @@ Application
 
 ---
 
-# 🧠 `cat /home/SudoBrad/philosophy.txt`
+# `cat /home/SudoBrad/philosophy.txt`
 
 ```text id="kjmnyv"
 Security without automation doesn't scale.
@@ -325,7 +325,7 @@ only solves part of the problem.
 
 ---
 
-# 📡 `sudo connect --user SudoBrad`
+# `sudo connect --user SudoBrad`
 
 <div align="center">
 
@@ -346,13 +346,13 @@ only solves part of the problem.
 │
 ├── Looking to collaborate?
 │
-├── DevOps...................[✓]
-├── Cybersecurity............[✓]
-├── DevSecOps................[✓]
-├── Linux....................[✓]
-├── Networking...............[✓]
-├── Security Tools...........[✓]
-└── Open Source..............[✓]
+├── DevOps...................
+├── Cybersecurity............
+├── DevSecOps................
+├── Linux....................
+├── Networking...............
+├── Security Tools...........
+└── Open Source..............
 │
 └─$ echo "Let's secure, automate and ship."
 ```
@@ -368,6 +368,3 @@ only solves part of the problem.
 ![Profile Views](https://komarev.com/ghpvc/?username=SudoBrad\&style=for-the-badge\&color=blueviolet)
 
 </div>
-
-
-
