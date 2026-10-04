@@ -19,7 +19,7 @@
 Secure. Automate. Deploy. Monitor. Improve.
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=6B7280&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+DevOps+%7C+Linux;Secure.+Automate.+Deploy.+Monitor.+Improve." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=6B7280&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+DevOps+%7C+Linux;Secure.+Automate.+Deploy.;Build.+Secure.+Scalable.+Systems" alt="Typing SVG" />
 
 </div>
 
@@ -52,7 +52,7 @@ currently_exploring:
   - Security Automation
   - System Hardening
 
-mission: "Build infrastructure that is automated, observable and secure."
+mission: "Build infrastructure that is automated, observable, and secure."
 ```
 
 ---
@@ -142,6 +142,7 @@ Cloud Security...............[ LEARNING ]
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
 </p>
 
@@ -165,7 +166,7 @@ It's a tool for:
 
 ### `Network Security / Rust`
 
-> Network scanning project built to explore networking, host discovery and security tooling.
+> Network scanning project built to explore networking, host discovery, and security tooling.
 
 ```text id="mx9imk"
 $ nemphyx scan
@@ -211,7 +212,7 @@ Server
 
 ### `Software Engineering / DevSecOps`
 
-> University complaint management system with a focus on structured requirements, maintainability and secure application development.
+> University complaint management system with a focus on structured requirements, maintainability, and secure application development.
 
 ```text id="t43zpg"
 Application
@@ -298,6 +299,7 @@ Application
 [ ] Security automation
 [ ] DevSecOps pipelines
 ```
+
 ---
 
 # `git streak`
@@ -365,6 +367,6 @@ only solves part of the problem.
 
 **Building • Securing • Automating • Learning**
 
-![Profile Views](https://komarev.com/ghpvc/?username=SudoBrad\&style=for-the-badge\&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=SudoBrad&style=for-the-badge&color=blueviolet)
 
 </div>
