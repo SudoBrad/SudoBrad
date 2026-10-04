@@ -18,7 +18,7 @@ Cybersecurity • DevOps • Infrastructure
 
 **SudoBrad** — Computer Science Student | DevOps Engineer | Security Enthusiast
 
-Passionate about building secure, automated, and scalable infrastructure. Specializing in DevOps practices, cybersecurity hardening, and infrastructure automation. Driven by the philosophy: **Secure by design, automated by default**.
+Passionate about building secure, automated, and scalable infrastructure. Specializing in DevOps practices, cybersecurity hardening, and infrastructure automation. Driven by the philosophy: **Secu[...]
 
 ---
 
@@ -184,7 +184,7 @@ Looking to collaborate on:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SudoBrad&style=for-the-badge&color=00ff00)
+<img src="https://komarev.com/ghpvc/?username=SudoBrad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 **Building • Securing • Automating • Learning**
 
