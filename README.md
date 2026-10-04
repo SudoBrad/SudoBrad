@@ -63,7 +63,7 @@ Bash          ██████████████████
 
 ## `find ~/projects -type f`
 
-### 🔍 **Nemphyx** — Network Security Scanner
+### **Nemphyx** — Network Security Scanner
 ```
 Language: Rust | Focus: Network reconnaissance & host discovery
 ```
@@ -73,7 +73,7 @@ Efficient network scanning tool built to explore TCP/UDP port scanning, CIDR exp
 
 ---
 
-### 🔐 **Sphynx** — Encrypted Communication Platform
+### **Sphynx** — Encrypted Communication Platform
 ```
 Language: Rust | Focus: Secure communications & cryptography
 ```
@@ -83,7 +83,7 @@ Terminal-based TLS chat application exploring encrypted client-server communicat
 
 ---
 
-### ⚙️ **UConnect** — University Management System
+### **UConnect** — University Management System
 ```
 Stack: TypeScript + SQLite | Focus: DevSecOps & Software Engineering
 ```
@@ -167,10 +167,6 @@ Infrastructure & Cloud    [LEARNING]
 ## `github status`
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SudoBrad&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SudoBrad&layout=compact&theme=dark&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SudoBrad&theme=dark&hide_border=true)
 
