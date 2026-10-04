@@ -42,11 +42,11 @@ Passionate about building secure, automated, and scalable infrastructure. Specia
 ### Languages & Tools
 
 ```
-Rust          ████████████████░░  Advanced
-TypeScript    ██████████████░░░░  Intermediate
-Java          ████████████░░░░░░  Intermediate
-C++           ██████████░░░░░░░░  Intermediate
-Bash          ██████████████████  Advanced
+Rust          ████████████████░░  
+TypeScript    ██████████████░░░░  
+Java          ████████████░░░░░░  
+C++           ██████████░░░░░░░░  
+Bash          ██████████████████  
 ```
 
 ### DevOps & Security Stack
@@ -97,35 +97,35 @@ Full-featured complaint management system emphasizing secure development practic
 
 ```
 Security Lab              [ACTIVE]
-  ├─ Network Analysis       ████████████ 90%
-  ├─ Linux Security         ████████████ 90%
-  ├─ Secure Programming     ████████████ 85%
-  └─ Port Scanning          ████████████ 85%
+  ├─ Network Analysis       ████████████ 
+  ├─ Linux Security         ████████████ 
+  ├─ Secure Programming     ████████████ 
+  └─ Port Scanning          ████████████ 
 
 Infrastructure & Cloud    [LEARNING]
-  ├─ Kubernetes             ████████░░░░ 65%
-  ├─ Cloud Security         ███████░░░░░ 60%
-  ├─ Container Security     ███████░░░░░ 60%
-  └─ IaC & Terraform        ██████░░░░░░ 55%
+  ├─ Kubernetes             ████████░░░░ 
+  ├─ Cloud Security         ███████░░░░░ 
+  ├─ Container Security     ███████░░░░░ 
+  └─ IaC & Terraform        ██████░░░░░░ 
 ```
 
 ---
 
 ## `cat /home/SudoBrad/roadmap.txt`
 
-### Short Term (3-6 months)
+### Short Term 
 - [ ] Kubernetes certification (CKA)
 - [ ] Advanced Docker & container security
 - [ ] CI/CD pipeline design & implementation
 - [ ] Cloud fundamentals (AWS/Azure)
 
-### Medium Term (6-12 months)
+### Medium Term 
 - [ ] Infrastructure as Code mastery
 - [ ] Security automation pipelines
 - [ ] Cloud security specialization
 - [ ] Monitoring & observability at scale
 
-### Long Term (1+ years)
+### Long Term 
 - [ ] DevSecOps platform architect
 - [ ] Security-first infrastructure design
 - [ ] Lead security automation initiatives
@@ -159,7 +159,6 @@ Infrastructure & Cloud    [LEARNING]
 
 [![Email](https://img.shields.io/badge/Email-keabetswedikobe8%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:keabetswedikobe8@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-SudoBrad-181717?style=for-the-badge&logo=github)](https://github.com/SudoBrad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kea%20Bezuidenhout-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/keabezuidenhout)
 
 </div>
 
