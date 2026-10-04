@@ -18,7 +18,7 @@ Cybersecurity • DevOps • Infrastructure
 
 **SudoBrad** — Computer Science Student | DevOps Engineer | Security Enthusiast
 
-Passionate about building secure, automated, and scalable infrastructure. Specializing in DevOps practices, cybersecurity hardening, and infrastructure automation. Driven by the philosophy: **Secure → Automate → Deploy → Monitor → Improve**
+Passionate about building secure, automated, and scalable infrastructure. Specializing in DevOps practices, cybersecurity hardening, and infrastructure automation. Driven by the philosophy: **Secure by design, automated by default**.
 
 ---
 
@@ -159,6 +159,20 @@ Infrastructure & Cloud    [LEARNING]
 
 [![Email](https://img.shields.io/badge/Email-keabetswedikobe8%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:keabetswedikobe8@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-SudoBrad-181717?style=for-the-badge&logo=github)](https://github.com/SudoBrad)
+
+</div>
+
+---
+
+## `github status`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SudoBrad&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SudoBrad&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SudoBrad&theme=dark&hide_border=true)
 
 </div>
 
