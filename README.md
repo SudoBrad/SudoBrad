@@ -30,10 +30,10 @@ Passionate about building secure, automated, and scalable infrastructure. Specia
 - **Infrastructure**: Cloud platforms, IaC, monitoring & observability
 
 ### Currently Learning
-- Advanced container orchestration (Kubernetes)
+- Docker fundamentals and containerization; exploring Kubernetes basics
 - Cloud security (AWS, Azure)
 - DevSecOps automation
-- Infrastructure as Code at scale
+- Infrastructure as Code at a gradual pace
 
 ---
 
@@ -95,17 +95,18 @@ Full-featured complaint management system emphasizing secure development practic
 ## `sudo systemctl status learning`
 
 ```
-Security Lab              [ACTIVE]
-  ├─ Network Analysis       ████████████ 
-  ├─ Linux Security         ████████████ 
-  ├─ Secure Programming     ████████████ 
-  └─ Port Scanning          ████████████ 
+Security Lab              [IN PROGRESS]
+  ├─ Network Analysis       ████████░░░░ 
+  ├─ Linux Security         ████████░░░░ 
+  ├─ Secure Programming     ████████░░░░ 
+  └─ Port Scanning          ████████░░░░ 
 
 Infrastructure & Cloud    [LEARNING]
-  ├─ Kubernetes             ████████░░░░ 
-  ├─ Cloud Security         ███████░░░░░ 
-  ├─ Container Security     ███████░░░░░ 
-  └─ IaC & Terraform        ██████░░░░░░ 
+  ├─ Docker Fundamentals    ████░░░░░░░░ 
+  ├─ Kubernetes             ██░░░░░░░░░░ 
+  ├─ Cloud Security         ████░░░░░░░░ 
+  ├─ Container Security     ███░░░░░░░░░ 
+  └─ IaC & Terraform        ███░░░░░░░░░ 
 ```
 
 ---
@@ -113,15 +114,15 @@ Infrastructure & Cloud    [LEARNING]
 ## `cat /home/SudoBrad/roadmap.txt`
 
 ### Short Term 
-- [ ] Kubernetes certification (CKA)
-- [ ] Advanced Docker & container security
+- [ ] Build confidence with Docker fundamentals
+- [ ] Practice Docker Compose and container security basics
 - [ ] CI/CD pipeline design & implementation
 - [ ] Cloud fundamentals (AWS/Azure)
 
 ### Medium Term 
-- [ ] Infrastructure as Code mastery
+- [ ] Learn Kubernetes fundamentals after building Docker experience
+- [ ] Infrastructure as Code foundations
 - [ ] Security automation pipelines
-- [ ] Cloud security specialization
 - [ ] Monitoring & observability at scale
 
 ### Long Term 
