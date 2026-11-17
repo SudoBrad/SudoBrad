@@ -18,7 +18,7 @@ Cybersecurity • DevOps • Infrastructure
 
 **SudoBrad** — Computer Science Student | DevOps Engineer | Security Enthusiast
 
-Passionate about building secure, automated, and scalable infrastructure. Specializing in DevOps practices, cybersecurity hardening, and infrastructure automation. Driven by the philosophy: **Secu[...]
+Passionate about building secure, automated, and scalable infrastructure. Specializing in DevOps practices, cybersecurity hardening, and infrastructure automation. Driven by the philosophy: **Secu[...**
 
 ---
 
@@ -46,7 +46,6 @@ Rust          ████████████████░░
 TypeScript    ██████████████░░░░  
 Java          ████████████░░░░░░  
 C++           ██████████░░░░░░░░  
-Bash          ██████████████████  
 ```
 
 ### DevOps & Security Stack
